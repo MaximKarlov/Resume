@@ -1,0 +1,259 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+}
+
+
+.main{
+    display: flex;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.leftbar{
+    background-color: #1E2939;
+    width: 370px;
+
+}
+
+.rightbar{
+    background-color: #fff;
+    padding-top: 40px ;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px;
+}
+
+.photo{
+width: 370px;
+height: 370px;
+margin-bottom: 50px;
+}
+
+/* about styles */
+
+.leftbar_title{
+    color:#fff;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-top: 30px;
+
+}
+
+.otstyp{
+    margin-left: 40px;
+}
+
+ .contacttype {
+    padding: 0; 
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 27px;  
+    color: #fff;
+    margin-left: 5px;
+    margin-right: 10px; 
+} 
+
+.contactlink,
+.project_link{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    color: #565e6a;
+}
+
+.techskiltype,
+.softskiltype
+{
+    color: #fff;
+    padding: 0;
+    margin-left: 20px;
+    margin-top: -15px;
+    margin-bottom: 50px;
+}
+
+.skilitem{
+    color: #FB6D3A;
+}
+
+.techskiltext,
+.softskiltext{
+    color: #fff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+/* 
+.softskiltype{
+    color: #fff;
+    padding: 0;
+    margin-left: 20px
+} */
+
+
+.about {
+    margin-bottom: 40px;
+
+}
+
+.about_position{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.about_Name{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-bottom: 25px;
+}
+
+.about_description{
+    width: 400px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+/* project style */
+
+.project{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-bottom: 50px;
+}
+
+.project_title2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.project_link{
+    margin-left: 10px;
+}
+
+projects{
+    margin-bottom: 50px;
+}
+
+.project_list{
+    padding: 0;
+    margin-left: 20px;
+}
+
+.title{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin: -10px;
+    margin-left: 0px;
+}
+
+
+
+.project_item{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+/* .work{
+} */
+
+.work_potition{
+    font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+        color: #000000;
+        margin-bottom: 10px;
+}
+
+.organization{
+    color:#FB6D3A;
+
+}
+.period{
+    font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        color: #A8A8A8;
+        margin-bottom: 10px;
+}
+
+.line{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 15px;
+    color: #000000;
+}
+
+
+.work_list{
+    padding: 0;
+    margin-left: 15px;
+}
+
+.work_list_item{
+font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+   
+}
+
+/* education style */
+.education{
+    margin-top: 45px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+.Name_University {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+
+.Name_institute {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
