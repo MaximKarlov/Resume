@@ -25,7 +25,7 @@ body {
 
 .photo{
 width: 370px;
-height: 370px;
+height: 520px;
 margin-bottom: 50px;
 }
 
@@ -121,7 +121,7 @@ margin-bottom: 50px;
 }
 
 .about_description{
-    width: 400px;
+    width: 100%;
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
