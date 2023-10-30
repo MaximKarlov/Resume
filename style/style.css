@@ -162,6 +162,7 @@ projects{
 .project_list{
     padding: 0;
     margin-left: 20px;
+    /* style:  */
 }
 
 .title{
@@ -178,11 +179,17 @@ projects{
 
 
 .project_item{
+    /* display:flex;
+    justify-content: space-between; */
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 24px;
     color: #000000;
+}
+.project_space{
+    display: flex;
+    justify-content: space-between;
 }
 
 /* .work{
